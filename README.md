@@ -119,6 +119,6 @@ See the [full code review and reproducibility notes](docs/CODE_REVIEW_AND_LIMITA
 
 ## Credits & scope
 
-**Group academic project** (Matthieu, Raphaël, Roslane, Quentin and Hugo, as listed in the supplied group materials). The source notebook and experiment results represent joint work. The `src/` modules are a separate portfolio refactor grounded in the team's methods; they are not presented as the exact scripts used in the original study or as sole-authored original research.
+**Group academic project** The source notebook and experiment results represent joint work. The `src/` modules are a separate portfolio refactor grounded in the team's methods; they are not presented as the exact scripts used in the original study or as sole-authored original research.
 
 **This repository demonstrates research reasoning and software quality; it does not offer gambling advice or a trading strategy.**
